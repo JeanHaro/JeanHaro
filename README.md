@@ -20,7 +20,7 @@
 
 - <img src="https://image.flaticon.com/icons/png/512/3811/3811818.png" width="20">  I'm from Lima,Perú
 - <img src="https://image.flaticon.com/icons/png/512/3787/3787951.png" width="20"> I'm 23  years old
-- <img src="https://image.flaticon.com/icons/png/512/1344/1344761.png" width="20"> I study at the Technological University of Peru, and I am in the <img src="https://image.flaticon.com/icons/png/512/3479/3479610.png" width="20"> eighth cycle
+- <img src="https://image.flaticon.com/icons/png/512/1344/1344761.png" width="20"> I study at the Universidad Tecnológica del Perú, and I am in the <img src="https://image.flaticon.com/icons/png/512/3479/3479610.png" width="20"> eighth cycle
 - <img src="https://static.platzi.com/media/blog/unnamed-8089fc33-6322-4bd3-85de-1da032257d4b.png" width="20"> I take courses in Platzi 
 - <img src="https://image.flaticon.com/icons/png/512/2721/2721304.png" width="20"> I am currently focused on what is Frontend of Web Development
 - <img src="https://image.flaticon.com/icons/png/512/1063/1063196.png" width="20">  I am not currently working
