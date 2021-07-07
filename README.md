@@ -71,8 +71,8 @@
 
 ----------- | ----------- | -----------
 ----------- | ----------- | -----------
-<img src="https://insmac.org/uploads/posts/2019-06/1560502744_code.png" width="25"> | <img src="https://cdn.goconqr.com/uploads/node/image/48683341/acc10704-ae07-4d49-ab56-c5373fca2542.png" width="25"> | <img src="https://materiageek.com/wp-content/uploads/2021/03/Apache-NetBeans-122-Descargar-gratis.png" width="25"> 
-<img src="https://iconape.com/wp-content/files/qb/371174/svg/371174.svg" width="25"> | <img src="https://git-for-windows.github.io/favicon.ico" width="25"> |
+<img src="https://insmac.org/uploads/posts/2019-06/1560502744_code.png" width="25"> | <img src="https://materiageek.com/wp-content/uploads/2021/03/Apache-NetBeans-122-Descargar-gratis.png" width="25"> | <img src="https://iconape.com/wp-content/files/qb/371174/svg/371174.svg" width="25"> 
+<img src="https://git-for-windows.github.io/favicon.ico" width="25"> |
 
 ------------
 
