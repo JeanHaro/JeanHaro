@@ -1,4 +1,4 @@
-### Hi! <img src="https://image.flaticon.com/icons/png/512/2577/2577538.png" width="30"/> I'm Jean Haro
+### Hi! I'm Jean Haro
 *I am a system engineering student* 
 
 ------------
@@ -6,8 +6,7 @@
 **My Social Networks To Contact Me**: <br>
 <a href="https://www.facebook.com/jeanc.haroluyo/"><img src="https://image.flaticon.com/icons/png/512/1384/1384053.png" width="30"></a> 
 <a href="https://www.instagram.com/jeaanc98/"><img src="https://image.flaticon.com/icons/png/512/1409/1409946.png" width="30"></a> 
-<a href="https://twitter.com/JeanPE98"><img src="https://image.flaticon.com/icons/png/512/1409/1409937.png" width="30"></a> 
-<a href="https://www.youtube.com/channel/UCLoRVhzyBxDHS5AU3fr5oMQ"><img src="https://image.flaticon.com/icons/png/512/174/174883.png" width="30"></a> 
+<a href="https://www.linkedin.com/in/jean-carlos-haro-824a07217/">Linkedin</a>
 <a href="mailto:JeanCHL98@hotmail.com"><img src="https://image.flaticon.com/icons/png/512/732/732223.png" width="30"></a> 
 <a href="mailto:jeanch447@gmail.com"><img src="https://image.flaticon.com/icons/png/512/4926/4926637.png" width="30"></a>
 <a href="https://join.skype.com/invite/kkrfllf4mX4U"><img src="https://image.flaticon.com/icons/png/512/3128/3128338.png" width="30"></a>
