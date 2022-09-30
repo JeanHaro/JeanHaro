@@ -64,7 +64,7 @@
 
 ------------
 
-<img src="https://image.flaticon.com/icons/png/512/380/380256.png" width="30"> **MY PROGRAMMING TOOLS**
+**MY PROGRAMMING TOOLS**
 
 ------------
 
@@ -75,7 +75,7 @@
 
 ------------
 
-<img src="https://image.flaticon.com/icons/png/512/689/689317.png" width="30"> **OPERATING SYSTEMS THAT I USE**
+**OPERATING SYSTEMS THAT I USE**
 
 ------------
 
