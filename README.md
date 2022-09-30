@@ -13,45 +13,45 @@
 
 ------------
 
-<img src="https://image.flaticon.com/icons/png/512/1338/1338024.png" width="30"> **ABOUT ME**
+**ABOUT ME**
 
 ------------
 
-- <img src="https://image.flaticon.com/icons/png/512/3811/3811818.png" width="20">  I'm from Lima,Perú
-- <img src="https://image.flaticon.com/icons/png/512/3787/3787951.png" width="20"> I'm 23  years old
-- <img src="https://image.flaticon.com/icons/png/512/1344/1344761.png" width="20"> I study at the Universidad Tecnológica del Perú, and I am in the <img src="https://image.flaticon.com/icons/png/512/3479/3479610.png" width="20"> eighth cycle
-- <img src="https://static.platzi.com/media/blog/unnamed-8089fc33-6322-4bd3-85de-1da032257d4b.png" width="20"> I take courses in Platzi 
-- <img src="https://image.flaticon.com/icons/png/512/2721/2721304.png" width="20"> I am currently focused on what is Frontend of Web Development
-- <img src="https://image.flaticon.com/icons/png/512/1063/1063196.png" width="20">  I am not currently working
+- I'm from Lima,Perú
+- I'm 23  years old
+- I study at the Universidad Tecnológica del Perú, and I am in the tenth cycle
+- I take courses in Platzi 
+- I am currently focused on what is Frontend of Web Development
+- I am not currently working
 
 ------------
 
-<img src="https://image.flaticon.com/icons/png/512/3588/3588723.png" width="30"> **HOBBIES**
+**HOBBIES**
 
 ------------
 
-- <img src="https://image.flaticon.com/icons/png/512/2490/2490421.png" width="20"> I like to learn new things
-- <img src="https://image.flaticon.com/icons/png/512/26/26514.png" width="20"> I like listening to music
-- <img src="https://image.flaticon.com/icons/png/512/1995/1995515.png" width="20"> I like to program
-- <img src="https://image.flaticon.com/icons/png/512/3715/3715301.png" width="20"> I like technology
-- <img src="https://image.flaticon.com/icons/png/512/2977/2977402.png" width="20"> I like animals
-- <img src="https://image.flaticon.com/icons/png/512/2857/2857527.png" width="20"> I like to be creative and imaginative in what I do
-- <img src="https://image.flaticon.com/icons/png/512/1985/1985867.png" width="20"> I like video games
+- I like to learn new things
+- I like listening to music
+- I like to program
+- I like technology
+- I like animals
+- I like to be creative and imaginative in what I do
+- I like video games
 
 ------------
 
-<img src="https://image.flaticon.com/icons/png/512/3207/3207593.png" width="30"> **MY FUTURE GOALS**
+**MY FUTURE GOALS**
 
 ------------
 
-- <img src="https://image.flaticon.com/icons/png/512/3518/3518229.png" width="20"> Learn to program both in Frontend and Backend to make functional and stylized Web Pages
-- <img src="https://image.flaticon.com/icons/png/512/1176/1176447.png" width="20"> Learn to make mobile and desktop applications
-- <img src="https://image.flaticon.com/icons/png/512/1457/1457549.png" width="20"> Know new technologies and tools about programming
-- <img src="https://image.flaticon.com/icons/png/512/3632/3632000.png" width="20"> Improve my programming skills to carry out optimal and quality projects
+- Learn to program both in Frontend and Backend to make functional and stylized Web Pages
+- Learn to make mobile and desktop applications
+- Know new technologies and tools about programming
+- Improve my programming skills to carry out optimal and quality projects
 
 ------------
 
-<img src="https://image.flaticon.com/icons/png/512/748/748527.png" width="30"> **MY LANGUAGE SKILLS**
+**MY LANGUAGE SKILLS**
 
 ------------
 
