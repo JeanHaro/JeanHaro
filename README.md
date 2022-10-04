@@ -57,10 +57,10 @@
 
 -- | -- | --
 ----------- | ----------- | -----------
-<img src="https://image.flaticon.com/icons/png/128/226/226269.png" width="25"> **80%** | <img src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" width="25"> **70%** | <img src="https://img2.freepng.es/20181209/yvf/kisspng-javascript-angularjs-node-js-computer-icons-clip-a-clipart-js-5c0d82819a4963.228658921544389249632.jpg" width="25"> **45%** 
-<img src="https://image.flaticon.com/icons/png/512/3291/3291667.png" width="25"> **95%** | <img src="https://image.flaticon.com/icons/png/512/4494/4494748.png" width="25"> **98%** | <img src="https://gblobscdn.gitbook.com/spaces%2F-Mazylr9D3SncEFFGVzK%2Favatar-1622472058140.png?alt=media" width="25"> **15%** 
-<img src="https://image.flaticon.com/icons/png/512/919/919836.png" width="25"> **15%** | <img src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" width="25"> **20%** | <img src="http://ipro.edu.uy/pix/Java-logo.png" width="25"> **30%** 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwBERUVTQAEAyDEpUPxl1yPU6tfIWAAPvYhwK4N2sSAAznlSdAW_rhS7pKkeazHsdWgVE&usqp=CAU" width="25"> **15%** | <img src="https://image.flaticon.com/icons/png/512/4669/4669765.png" width="25"> **15%**
+HTML **90%** | CSS **90%** | Sass **90%** 
+SQL **80%** | JavaScript **70%** | Angular **65%** 
+TypeScript **65%** | MongoDB **60%** | NodeJS **40%** 
+ExpressJS **40%** | Java **15%** | Git **90%**
 
 ------------
 
@@ -81,4 +81,4 @@
 
 -- | --
 ----------- | ----------- 
-<img src="https://image.flaticon.com/icons/png/512/220/220215.png" width="25"> | <img src="https://image.flaticon.com/icons/png/512/226/226772.png" width="25">
+Window | Linux
