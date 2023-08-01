@@ -18,9 +18,9 @@
 ------------
 
 - I'm from Lima,Perú
-- I'm 23  years old
+- I'm 25  years old
 - I study at the Universidad Tecnológica del Perú, and I am in the tenth cycle
-- I take courses in Platzi 
+- I take courses in Udemy
 - I am currently focused on what is Frontend of Web Development
 - I am not currently working
 
