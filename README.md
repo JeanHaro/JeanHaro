@@ -1,84 +1,80 @@
-### Hi! I'm Jean Haro
-*I am a system engineering student* 
+# 👋 Hi, I'm Jean Carlos Haro Luyo
 
-------------
+*Frontend Developer | Angular Specialist | Aspiring Fullstack Developer*
 
-**My Social Networks To Contact Me**: <br>
-<a href="https://www.facebook.com/jeanc.haroluyo/">Facebook</a> 
-<a href="https://www.instagram.com/jeaanc98/">Instagram</a> 
-<a href="https://www.linkedin.com/in/jean-carlos-haro-824a07217/">Linkedin</a>
-<a href="mailto:JeanCHL98@hotmail.com">Outlook</a> 
-<a href="mailto:jeanch447@gmail.com">Gmail</a>
-<a href="https://join.skype.com/invite/kkrfllf4mX4U">Skype</a>
+---
 
-------------
+## 📬 Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean%20Haro-blue?logo=linkedin)](https://www.linkedin.com/in/jean-carlos-haro-824a07217/)  
+[![GitHub](https://img.shields.io/badge/GitHub-JeanHaro-black?logo=github)](https://github.com/JeanHaro)  
+[![Gmail](https://img.shields.io/badge/Gmail-jeanch447%40gmail.com-red?logo=gmail)](mailto:jeanch447@gmail.com)
 
-**ABOUT ME**
+---
 
-------------
+## 👨‍💻 About Me
+- 🌍 From **Lima, Perú** 🇵🇪
+- 🎓 Bachelor in **System Engineering** from Universidad Tecnológica del Perú
+- 📚 Focused on **Frontend Web Development** with Angular.
+- 🚀 Exploring **Docker, Nginx, Microfrontends in Angular, PWA, and AWS**.
+- 🛠️ Passionate about **automation**, **innovation**, and **building scalable solutions**.
+- 💻 Open to collaborating on exciting tech and software projects.
 
-- I'm from Lima,Perú
-- I'm 25  years old
-- I study at the Universidad Tecnológica del Perú, and I am in the tenth cycle
-- I take courses in Udemy
-- I am currently focused on what is Frontend of Web Development
-- I am not currently working
+---
 
-------------
+## 🛠️ Technical Skills
 
-**HOBBIES**
+### Frontend
+- **Angular** (Standalone and Modular)
+- **TypeScript**, **JavaScript (ES6+)**, **HTML5**, **CSS3** (Sass)
+- **Responsive Design**, **Custom Animations**, **UI/UX Best Practices**
 
-------------
+### Backend (Basic - Medium)
+- **Node.js**, **Express.js**, **MongoDB**
+- **REST API Integration**
 
-- I like to learn new things
-- I like listening to music
-- I like to program
-- I like technology
-- I like animals
-- I like to be creative and imaginative in what I do
-- I like video games
+### Infrastructure & Cloud (Learning)
+- **Docker**, **AWS (IAM, EC2)**, **Nginx**
 
-------------
+### Automation
+- **Make**, **n8n (exploring)**
 
-**MY FUTURE GOALS**
+### Tools
+- **Git**, **GitHub**, **Firebase**, **Webpack**, **NPM**
 
-------------
+### Methodologies
+- **Scrum**, **Agile Development**
 
-- Learn to program both in Frontend and Backend to make functional and stylized Web Pages
-- Learn to make mobile and desktop applications
-- Know new technologies and tools about programming
-- Improve my programming skills to carry out optimal and quality projects
+---
 
-------------
+## 🎯 My Future Goals
+- 🔥 Become a strong Fullstack Developer (Frontend + Backend).
+- 📱 Build mobile and desktop applications.
+- 🌎 Contribute to open-source projects.
+- 🤖 Dive deeper into cloud technologies and DevOps.
+- 📈 Improve in performance optimization and web accessibility (a11y).
 
-**MY LANGUAGE SKILLS**
+---
 
-------------
+## 🎵 Hobbies
+- 🎮 Playing video games
+- 🎧 Listening to music
+- 📚 Learning new technologies
+- 🐶 Spending time with animals
+- ✨ Being creative and imaginative in personal projects
 
--- | -- | --
------------ | ----------- | -----------
-HTML **90%** | CSS **90%** | Sass **90%** 
-SQL **80%** | JavaScript **70%** | Angular **65%** 
-TypeScript **65%** | MongoDB **60%** | NodeJS **40%** 
-ExpressJS **40%** | Java **15%** | Git **90%**
+---
 
-------------
+## 📊 My Skill Levels (Self-Assessment)
 
-**MY PROGRAMMING TOOLS**
-
-------------
-
--- | -- | --
------------ | ----------- | -----------
-<img src="https://insmac.org/uploads/posts/2019-06/1560502744_code.png" width="25"> | <img src="https://materiageek.com/wp-content/uploads/2021/03/Apache-NetBeans-122-Descargar-gratis.png" width="25"> | <img src="https://iconape.com/wp-content/files/qb/371174/svg/371174.svg" width="25"> 
-<img src="https://git-for-windows.github.io/favicon.ico" width="25"> |
-
-------------
-
-**OPERATING SYSTEMS THAT I USE**
-
-------------
-
--- | --
------------ | ----------- 
-Window | Linux
+| Skill             | Level |
+|-------------------|-------|
+| HTML5             | 95%   |
+| CSS3 (Sass)       | 95%   |
+| JavaScript (ES6+) | 80%   |
+| Angular           | 75%   |
+| TypeScript        | 65%   |
+| MongoDB           | 60%   |
+| SQL               | 80%   |
+| Node.js           | 40%   |
+| Express.js        | 40%   |
+| Git               | 90%   |
