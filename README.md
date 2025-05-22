@@ -38,7 +38,7 @@
 - **REST API Integration**, **JWT Authentication**
 
 ### ☁️ Infrastructure & Performance
-- **Docker** (learning), **AWS (IAM, EC2)**, **Nginx**
+- **Docker** (learning), **AWS (IAM, EC2)**, **Nginx** (learning)
 - **QuicklinkStrategy**, **Lazy Loading**, **LocalStorage**, **Preload Optimization**
 
 ### 🤖 Automation & IA
