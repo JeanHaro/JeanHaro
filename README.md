@@ -20,7 +20,7 @@
   - **SEO personalizado en Angular**  
   - **NgOptimizedImage**  
   - **QuicklinkStrategy para Preload Personalizado**  
-  - **MCP (Maximum Contentful Paint)** y **GPT**  
+  - **MCP (Model Context Protocol)** y **GPT**  
 - 🛠️ Passionate about **automation**, **performance optimization**, and creating impactful solutions  
 - 🤝 Open to collaborate on projects that push boundaries and deliver real-world value  
 
