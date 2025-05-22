@@ -55,7 +55,7 @@
 
 ## 🎯 My Future Goals
 - 🌐 Convertirme en Fullstack Developer sólido (Angular + Node.js)  
-- 🧠 Profundizar en performance web, accesibilidad (a11y) y DevOps  
+- 🧠 Profundizar en performance web, accesibilidad (a11y)
 - 🚀 Contribuir a proyectos open source e iniciativas tecnológicas reales  
 - 📱 Crear aplicaciones web, móviles y de escritorio  
 - 🤖 Aplicar IA en automatización y soluciones para usuarios  
