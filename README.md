@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jean Carlos Haro Luyo
 
-*Frontend Developer | Angular Specialist | Aspiring Fullstack Developer*
+*Frontend Developer | Angular Specialist | Passionate About Innovation | Future Fullstack Developer*
 
 ---
 
@@ -12,55 +12,62 @@
 ---
 
 ## 👨‍💻 About Me
-- 🌍 From **Lima, Perú** 🇵🇪
-- 🎓 Bachelor in **System Engineering** from Universidad Tecnológica del Perú
-- 📚 Focused on **Frontend Web Development** with Angular.
-- 🚀 Exploring **Docker, Nginx, Microfrontends in Angular, PWA, and AWS**.
-- 🛠️ Passionate about **automation**, **innovation**, and **building scalable solutions**.
-- 💻 Open to collaborating on exciting tech and software projects.
+- 🌍 From **Lima, Perú** 🇵🇪  
+- 🎓 Bachelor in **System Engineering** – Universidad Tecnológica del Perú  
+- 💻 Focused on **Frontend Development** with Angular and TypeScript  
+- 🚀 Currently exploring and aplicating:  
+  - **PWA con Angular**  
+  - **SEO personalizado en Angular**  
+  - **NgOptimizedImage**  
+  - **QuicklinkStrategy para Preload Personalizado**  
+  - **MCP (Maximum Contentful Paint)** y **GPT**  
+- 🛠️ Passionate about **automation**, **performance optimization**, and creating impactful solutions  
+- 🤝 Open to collaborate on projects that push boundaries and deliver real-world value  
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Frontend
-- **Angular** (Standalone and Modular)
-- **TypeScript**, **JavaScript (ES6+)**, **HTML5**, **CSS3** (Sass)
-- **Responsive Design**, **Custom Animations**, **UI/UX Best Practices**
+### ⚙️ Frontend
+- **Angular** (Standalone & Modular)
+- **TypeScript**, **JavaScript (ES6+)**, **HTML5**, **CSS3 (Sass)**
+- **Responsive Design**, **Custom Animations**, **NgOptimizedImage**, **SEO personalizado**
 
-### Backend (Basic - Medium)
+### 🔧 Backend (Basic to Intermediate)
 - **Node.js**, **Express.js**, **MongoDB**
-- **REST API Integration**
+- **REST API Integration**, **JWT Authentication**
 
-### Infrastructure & Cloud (Learning)
-- **Docker**, **AWS (IAM, EC2)**, **Nginx**
+### ☁️ Infrastructure & Performance
+- **Docker** (learning), **AWS (IAM, EC2)**, **Nginx**
+- **QuicklinkStrategy**, **Lazy Loading**, **LocalStorage**, **Preload Optimization**
 
-### Automation
-- **Make**, **n8n (exploring)**
+### 🤖 Automation & IA
+- **Make** (automation)
+- **GPT implementation** (with Buk integration for HR solutions)
 
-### Tools
-- **Git**, **GitHub**, **Firebase**, **Webpack**, **NPM**
+### 🧰 Tools & Others
+- **Git**, **GitHub**, **Firebase**, **Webpack**, **NPM**, **Postman**
 
-### Methodologies
-- **Scrum**, **Agile Development**
+### 📌 Methodologies
+- **Scrum**, **Agile Development**, **Component-based architecture**
 
 ---
 
 ## 🎯 My Future Goals
-- 🔥 Become a strong Fullstack Developer (Frontend + Backend).
-- 📱 Build mobile and desktop applications.
-- 🌎 Contribute to open-source projects.
-- 🤖 Dive deeper into cloud technologies and DevOps.
-- 📈 Improve in performance optimization and web accessibility (a11y).
+- 🌐 Convertirme en Fullstack Developer sólido (Angular + Node.js)  
+- 🧠 Profundizar en performance web, accesibilidad (a11y) y DevOps  
+- 🚀 Contribuir a proyectos open source e iniciativas tecnológicas reales  
+- 📱 Crear aplicaciones web, móviles y de escritorio  
+- 🤖 Aplicar IA en automatización y soluciones para usuarios  
 
 ---
 
 ## 🎵 Hobbies
-- 🎮 Playing video games
-- 🎧 Listening to music
-- 📚 Learning new technologies
-- 🐶 Spending time with animals
-- ✨ Being creative and imaginative in personal projects
+- 🎮 Video games  
+- 🎧 Music  
+- 📚 Aprender cosas nuevas  
+- 🐶 Amante de los animales  
+- ✨ Creatividad e innovación en mis proyectos personales  
 
 ---
 
@@ -70,11 +77,38 @@
 |-------------------|-------|
 | HTML5             | 95%   |
 | CSS3 (Sass)       | 95%   |
-| JavaScript (ES6+) | 80%   |
-| Angular           | 75%   |
-| TypeScript        | 65%   |
-| MongoDB           | 60%   |
+| JavaScript (ES6+) | 85%   |
+| Angular           | 80%   |
+| TypeScript        | 75%   |
 | SQL               | 80%   |
-| Node.js           | 40%   |
-| Express.js        | 40%   |
+| MongoDB           | 65%   |
+| Node.js           | 50%   |
+| Express.js        | 45%   |
 | Git               | 90%   |
+| MCP               | 80%   |
+| GPT (Applied)     | 80%   |
+| Docker / Nginx    | 30% (Learning)
+
+---
+
+## 💻 Programming Tools I Use
+
+| Editors / IDEs      |
+|---------------------|
+| Visual Studio Code  |
+| WebStorm             |
+| NetBeans             |
+| Git for Windows      |
+
+---
+
+## 🖥️ Operating Systems
+
+| Systems  |
+|----------|
+| Windows  |
+| Linux    |
+
+---
+
+# 🚀 Thank you for visiting my profile!
