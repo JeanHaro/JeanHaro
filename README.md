@@ -1,9 +1,8 @@
-# 🎯 Jean Carlos Haro Luyo
 
 <div align="center">
 
 <!-- Animated Hero Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Jean%20Carlos%20Haro&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Frontend%20Architect%20%7C%20Angular%20Specialist%20%7C%20Innovation%20Engineer&descAlignY=60&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Jean%20Carlos%20Haro%20Luyo&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Frontend%20Architect%20%7C%20Angular%20Specialist%20%7C%20Innovation%20Engineer&descAlignY=60&descAlign=50"/>
 
 <!-- Dynamic Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Frontend+Developer;⚡+Angular+%26+TypeScript+Expert;🎨+UI%2FUX+Innovation+Engineer;🔮+Future+Fullstack+Architect" alt="Typing Animation"/>
