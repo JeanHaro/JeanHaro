@@ -1,11 +1,14 @@
-
 <div align="center">
 
 <!-- Animated Hero Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Jean%20Carlos%20Haro%20Luyo&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Frontend%20Architect%20%7C%20Angular%20Specialist%20%7C%20Innovation%20Engineer&descAlignY=60&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16,17&height=300&section=header&text=Jean%20Carlos%20Haro&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Frontend%20Architect%20%7C%20Angular%20Specialist%20%7C%20Innovation%20Engineer&descAlignY=60&descAlign=50"/>
+
+<br/>
 
 <!-- Dynamic Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Frontend+Developer;⚡+Angular+%26+TypeScript+Expert;🎨+UI%2FUX+Innovation+Engineer;🔮+Future+Fullstack+Architect" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&multiline=true&width=600&height=120&lines=+Frontend+Developer;+Angular+%26+TypeScript+Expert;+Future+Fullstack+Architect;" alt="Typing Animation"/>
+
+<br/><br/>
 
 <!-- Animated Badges Constellation -->
 <div align="center" style="margin: 20px 0;">
@@ -18,10 +21,10 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000"/>
   
   <!-- Animated Status Badges -->
-  <br/><br/>
-  <img src="https://img.shields.io/badge/💼%20Status-Open%20for%20Opportunities-00D9FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🎯%20Focus-Frontend%20Innovation-FF6B6B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🌱%20Learning-Fullstack%20Architecture-4ECDC4?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/💼%20Status-Open%20for%20Opportunities-4A90E2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎯%20Focus-Frontend%20Innovation-6C7B95?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌱%20Learning-Fullstack%20Architecture-8FA8DA?style=for-the-badge"/>
   
 </div>
 
@@ -29,17 +32,16 @@
 
 ---
 
-## 🎨 **ABOUT ME - The Developer's Journey**
+## 🎨 About Me - The Developer's Journey
+
+<br>
 
 <div align="center">
-
-<!-- Profile Stats Cards with Animation -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanHaro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_color=00D9FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanHaro&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&border_color=00D9FF"/>
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanHaro&theme=tokyonight&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
-
+<!-- Profile Stats Cards with White Background -->
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=JeanHaro&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=2C3E50&icon_color=4A90E2&text_color=2C3E50&border_color=CCCCCC&border_radius=15"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanHaro&layout=compact&langs_count=8&bg_color=FFFFFF&title_color=2C3E50&text_color=2C3E50&border_color=CCCCCC&border_radius=15"/>
+<!-- Streak Stats with White Background -->
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=JeanHaro&background=FFFFFF&stroke=4A90E2&ring=4A90E2&fire=FF6B6B&currStreakLabel=2C3E50&sideLabels=2C3E50&dates=2C3E50&sideNums=4A90E2&currStreakNum=4A90E2&border=CCCCCC&border_radius=15"/>
 </div>
 
 ### 🚀 **Who Am I?**
@@ -81,9 +83,9 @@ class JeanCarlosHaro implements Developer {
 
 ---
 
-## 🛠️ **TECH ARSENAL - My Digital Toolkit**
+## 🛠️ **Tech Arsenal - My Digital Toolkit**
 
-<div align="center">
+<div align="left">
 
 ### **⚡ Frontend Mastery**
 <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,sass,tailwind&theme=dark"/>
@@ -101,9 +103,9 @@ class JeanCarlosHaro implements Developer {
 
 ---
 
-## 📊 **SKILL PROGRESSION - Level Up System**
+## 📊 **Skill Progression - Level Up System**
 
-<div align="center">
+<div align="left">
 
 | 🎯 **Skill** | 📊 **Level** | 🔥 **Experience** | 🚀 **Projects** |
 |:---:|:---:|:---:|:---:|
@@ -119,61 +121,40 @@ class JeanCarlosHaro implements Developer {
 
 ---
 
-## 🎮 **ACHIEVEMENT SYSTEM - Developer Badges**
+## 🎮 Achievement System - Developer Badges
 
 <div align="center">
-
-<!-- GitHub Achievements -->
-<img src="https://github-profile-trophy.vercel.app/?username=JeanHaro&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1"/>
-
+<!-- GitHub Achievements with White Background -->
+<img src="https://github-profile-trophy.vercel.app/?username=JeanHaro&theme=flat&no-frame=false&no-bg=true&margin-w=4&row=1"/>
 <!-- Custom Achievement Badges -->
-<img src="https://img.shields.io/badge/🏆%20Achievement-Arctic%20Code%20Vault%20Contributor-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏆%20Achievement-Arctic%20Code%20Vault%20Contributor-4A90E2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/⚡%20Status-Angular%20Expert-DD0031?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🎨%20Level-UI%2FUX%20Innovator-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀%20Goal-Fullstack%20Architect-4ECDC4?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/🎨%20Level-UI%2FUX%20Innovator-6C7B95?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀%20Goal-Fullstack%20Architect-8FA8DA?style=for-the-badge"/>
 </div>
 
 ---
 
-## 📈 **ACTIVITY PULSE - Live Developer Stats**
-
+## 🌟 Featured Projects - My Digital Portfolio
 <div align="center">
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JeanHaro&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true"/>
-
-<!-- Contribution Calendar -->
-<img src="https://ghchart.rshah.org/00D9FF/JeanHaro" alt="Jean's Github chart" />
-
-</div>
-
----
-
-## 🌟 **FEATURED PROJECTS - My Digital Portfolio**
-
-<div align="center">
-
-<!-- Repository Cards -->
+<!-- Repository Cards with White Background and Full Width -->
 <a href="https://github.com/JeanHaro/front-store">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanHaro&repo=front-store&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&border_color=00D9FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanHaro&repo=front-store&bg_color=FFFFFF&title_color=2C3E50&text_color=2C3E50&border_color=CCCCCC&border_radius=15" />
 </a>
 <a href="https://github.com/JeanHaro/back-apistore">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanHaro&repo=back-apistore&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&border_color=00D9FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanHaro&repo=back-apistore&bg_color=FFFFFF&title_color=2C3E50&text_color=2C3E50&border_color=CCCCCC&border_radius=15" />
 </a>
-
 <a href="https://github.com/JeanHaro/front-sports-academy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanHaro&repo=front-sports-academy&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&border_color=00D9FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanHaro&repo=front-sports-academy&bg_color=FFFFFF&title_color=2C3E50&text_color=2C3E50&border_color=CCCCCC&border_radius=15" />
 </a>
 <a href="https://github.com/JeanHaro/FaluhStore">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanHaro&repo=FaluhStore&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&border_color=00D9FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanHaro&repo=FaluhStore&bg_color=FFFFFF&title_color=2C3E50&text_color=2C3E50&border_color=CCCCCC&border_radius=15" />
 </a>
-
 </div>
 
 ---
 
-## 🌐 **CONNECT WITH ME - Let's Build Together**
+## 🌐 **Connect With Me - Let's Build Together**
 
 <div align="center">
 
@@ -193,15 +174,15 @@ class JeanCarlosHaro implements Developer {
 
 <!-- Animated Contact CTA -->
 <br/><br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=💬+Open+to+collaborate+on+innovative+projects;🚀+Let's+build+the+future+together;📧+Feel+free+to+reach+out!" alt="Contact Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=💬+Open+to+collaborate+on+innovative+projects;🚀+Let's+build+the+future+together;📧+Feel+free+to+reach+out!" alt="Contact Animation"/>
 
 </div>
 
 ---
 
-## 🎵 **BEYOND CODE - Personal Touch**
+## 🎵 **Beyond Code - Personal Touch**
 
-<div align="center">
+<div align="left">
 
 ```typescript
 const personalLife = {
@@ -218,13 +199,15 @@ const personalLife = {
 ---
 
 <!-- Animated Footer -->
+<!-- Animated Footer -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16,17&height=120&section=footer"/>
 </div>
 
+<br>
 <!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JeanHaro&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=JeanHaro&label=Profile%20Views&color=4A90E2&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 ---
