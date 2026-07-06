@@ -16,8 +16,11 @@ Desarrollador Frontend con más de 2 años de experiencia, especializado en el e
 
 Con experiencia reciente en **Havas Perú**, TISmart y Pisco Technologies. Actualmente en **búsqueda activa de nuevas oportunidades**, y en mi tiempo libre exploro automatización e integración de IA (Make, MCP, GPT).
 
-📍 Lima, Perú &nbsp;·&nbsp; 🎓 Ing. de Sistemas, Universidad Tecnológica del Perú
-&nbsp;·&nbsp; <!--START_SECTION:coding-time--> ⏱️ programando desde hace 5 años y 9 meses <!--END_SECTION:coding-time-->
+📍 Lima, Perú
+<br/>
+🎓 Ing. de Sistemas, Universidad Tecnológica del Perú
+<br/>
+<!--START_SECTION:coding-time--> ⏱️ programando desde hace X <!--END_SECTION:coding-time-->
 
 <br>
 
