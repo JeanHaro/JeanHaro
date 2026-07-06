@@ -2,9 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=230&section=header&text=Jean%20Carlos%20Haro&fontSize=46&fontColor=fff&fontAlignY=42&desc=Frontend%20Developer%20%7C%20Angular%20%2F%20TypeScript&descAlignY=60&descAlign=50"/>
 <br/>
-<a href="https://www.linkedin.com/in/jeancarlos-haro/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:jeanch447@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://portfolio-jeans.netlify.app/"><img height="30" src="https://img.shields.io/badge/Portfolio-4A90E2?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jeancarlos-haro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:jeanch447@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://portfolio-jeans.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </div>
 
