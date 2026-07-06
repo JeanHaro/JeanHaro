@@ -5,7 +5,7 @@ on:
     - cron: '0 6 * * *'   # todos los días a las 6:00 UTC (1:00 am Lima)
   workflow_dispatch:       # también puedes ejecutarlo manualmente desde la pestaña Actions
   push:
-    branches: [ main ]
+    branches: [ main, master ]
 
 jobs:
   actividad-reciente:
@@ -31,7 +31,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: main
+          ref: master
 
       - name: Calcular tiempo programando
         run: |
