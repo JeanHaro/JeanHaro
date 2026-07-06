@@ -1,221 +1,96 @@
 <div align="center">
 
-<!-- Animated Hero Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16,17&height=300&section=header&text=Jean%20Carlos%20Haro&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Frontend%20Architect%20%7C%20Angular%20Specialist%20%7C%20Innovation%20Engineer&descAlignY=60&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=180&section=header&text=Jean%20Carlos%20Haro&fontSize=40&fontColor=fff&fontAlignY=40&desc=Frontend%20Developer%20%7C%20Angular%20%26%20TypeScript&descAlignY=60&descAlign=50"/>
+
+<a href="https://www.linkedin.com/in/jeancarlos-haro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:jeanch447@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://portfolio-jeans.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-4A90E2?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+
+</div>
+
+<br>
+
+## Sobre mí
+
+Desarrollador Frontend con más de 2 años de experiencia, especializado en el ecosistema **Angular** y **TypeScript**. Construyo aplicaciones web mediante arquitectura modular, formularios reactivos y consumo de APIs, con foco en accesibilidad web y buenas prácticas de Sass/CSS.
+
+Actualmente trabajo como Frontend Developer en **Havas Perú**, y en mi tiempo libre exploro automatización e integración de IA (Make, MCP, GPT).
+
+📍 Lima, Perú &nbsp;·&nbsp; 🎓 Ing. de Sistemas, Universidad Tecnológica del Perú
+&nbsp;·&nbsp; <!--START_SECTION:coding-time--> ⏱️ programando desde hace X <!--END_SECTION:coding-time-->
+
+<br>
+
+## Stack
+
+**Frontend**
+<img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,sass&theme=dark"/>
+
+**Backend (básico)**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark"/>
+
+**Automatización & IA**
+![Make](https://img.shields.io/badge/-Make-6D00CC?style=flat-square&logo=make&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP%20(Anthropic)-D97757?style=flat-square)
+![GPT](https://img.shields.io/badge/-GPT%20(OpenAI)-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Herramientas**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark"/>
+
+<br>
+
+## Proyectos Destacados
+
+### 📦 [typed-storage](https://github.com/JeanHaro/typed-storage)
+Localstorage type-safe con API estilo signals, soporte de TTL, sincronización entre pestañas y fallback en memoria. Publicado como paquete npm (`@jeanharo98/typed-storage`), con ecosistema propio:
+- [`typed-storage-angular`](https://github.com/JeanHaro/typed-storage-angular) — integración nativa con Angular Signals
+- [`typed-storage-react`](https://github.com/JeanHaro/typed-storage-react) — hook `useStorage()` con re-render automático
+- [`typed-storage-devtools`](https://github.com/JeanHaro/typed-storage-devtools) — extensión de Chrome DevTools para inspeccionar el storage en tiempo real
+
+`TypeScript` `npm package` `Signals`
+
+### 🗃️ [inventario-app](https://github.com/JeanHaro/inventario-app)
+Sistema de gestión de inventario full-stack: Angular 22 (Signals, Signal Forms) en el frontend + Express/TypeScript en el backend. Drawers controlados por query params y gestión completa de productos y variantes.
+
+`Angular 22` `Signals` `Express` `TypeScript`
+
+### 🧱 [ddd-core](https://github.com/JeanHaro/ddd-core)
+Building blocks de Domain-Driven Design en TypeScript — `Result`, `ValueObject`, `Entity`, `AggregateRoot`, `Guard`, `Mapper`. Cero dependencias, agnóstico de framework.
+
+`TypeScript` `DDD` `Zero-dependency`
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=JeanHaro&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_radius=12&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanHaro&layout=compact&langs_count=6&theme=tokyonight&border_radius=12&hide_border=true"/>
 
 <br/>
 
-<!-- Dynamic Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&multiline=true&width=600&height=120&lines=+Frontend+Developer;+Angular+%26+TypeScript+Expert;+Future+Fullstack+Architect;" alt="Typing Animation"/>
-
-<br/><br/>
-
-<!-- Animated Badges Constellation -->
-<div align="center" style="margin: 20px 0;">
-  
-  <!-- Tech Stack Badges -->
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=000"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000"/>
-  
-  <!-- Animated Status Badges -->
-  <br/>
-  <img src="https://img.shields.io/badge/💼%20Status-Open%20for%20Opportunities-4A90E2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🎯%20Focus-Frontend%20Innovation-6C7B95?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🌱%20Learning-Fullstack%20Architecture-8FA8DA?style=for-the-badge"/>
-  
-</div>
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=JeanHaro&theme=tokyonight&border_radius=12&hide_border=true"/>
 
 </div>
-
----
-
-## 🎨 About Me - The Developer's Journey
 
 <br>
 
+## En Vivo
+
+**💬 Quote del día**
 <div align="center">
-<!-- Profile Stats Cards with White Background -->
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=JeanHaro&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=2C3E50&icon_color=4A90E2&text_color=2C3E50&border_color=CCCCCC&border_radius=15"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanHaro&layout=compact&langs_count=8&bg_color=FFFFFF&title_color=2C3E50&text_color=2C3E50&border_color=CCCCCC&border_radius=15"/>
-<!-- Streak Stats with White Background -->
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=JeanHaro&background=FFFFFF&stroke=4A90E2&ring=4A90E2&fire=FF6B6B&currStreakLabel=2C3E50&sideLabels=2C3E50&dates=2C3E50&sideNums=4A90E2&currStreakNum=4A90E2&border=CCCCCC&border_radius=15"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
 
-### 🚀 **Who Am I?**
-
-```typescript
-class JeanCarlosHaro implements Developer {
-  readonly name = "Jean Carlos Haro Luyo";
-  readonly location = "Lima, Perú 🇵🇪";
-  readonly role = "Frontend Developer & Innovation Engineer";
-  
-  readonly currentStack = {
-    frontend: ["Angular", "TypeScript", "JavaScript ES6+", "HTML5", "CSS3/Sass"],
-    backend: ["Node.js", "Express.js", "MongoDB", "REST APIs"],
-    tools: ["Git", "Firebase", "Webpack", "NPM", "Postman"],
-    learning: ["Docker", "AWS", "Nginx", "Fullstack Architecture"]
-  };
-  
-  readonly currentFocus = [
-    "🔥 PWA Development with Angular",
-    "⚡ SEO Optimization & Performance",
-    "🎨 NgOptimizedImage Implementation", 
-    "🚀 QuicklinkStrategy for Custom Preloading",
-    "🤖 AI Integration with MCP & GPT",
-    "📱 Mobile-First Responsive Design"
-  ];
-  
-  readonly goals2024 = [
-    "🌐 Master Fullstack Development (Angular + Node.js)",
-    "🧠 Deep dive into Web Performance & Accessibility",
-    "🚀 Contribute to Open Source Projects",
-    "📱 Build Cross-platform Applications",
-    "🤖 Implement AI-driven Solutions"
-  ];
-  
-  readonly workingOn = "Building innovative web solutions that bridge design and functionality";
-  readonly funFact = "I love turning complex problems into elegant, animated user experiences! 🎨";
-}
-```
-
----
-
-## 🛠️ **Tech Arsenal - My Digital Toolkit**
-
-<div align="left">
-
-### **⚡ Frontend Mastery**
-<img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,sass,tailwind&theme=dark"/>
-
-### **🔧 Backend & Database**
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql&theme=dark"/>
-
-### **🚀 Tools & DevOps**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,webpack,npm,docker,aws,nginx&theme=dark"/>
-
-### **🎨 Design & Productivity**
-<img src="https://skillicons.dev/icons?i=figma,photoshop,postman,linux,windows&theme=dark"/>
-
-</div>
-
----
-
-## 📊 **Skill Progression - Level Up System**
-
-<div align="left">
-
-| 🎯 **Skill** | 📊 **Level** | 🔥 **Experience** | 🚀 **Projects** |
-|:---:|:---:|:---:|:---:|
-| ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | `██████████` 85% | 2+ years | 15+ projects |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | `████████░░` 80% | 2+ years | 20+ projects |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | `█████████░` 90% | 3+ years | 30+ projects |
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | `██████████` 95% | 4+ years | 40+ projects |
-| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | `██████████` 95% | 4+ years | 35+ projects |
-| ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | `█████░░░░░` 50% | 1+ year | 8+ projects |
-| ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | `██████░░░░` 65% | 1+ year | 6+ projects |
-
-</div>
-
----
-
-## 🎮 Achievement System - Developer Badges
-
-<div align="center">
-<!-- GitHub Achievements with White Background -->
-<img src="https://github-profile-trophy.vercel.app/?username=JeanHaro&theme=flat&no-frame=false&no-bg=true&margin-w=4&row=1"/>
-<!-- Custom Achievement Badges -->
-<img src="https://img.shields.io/badge/🏆%20Achievement-Arctic%20Code%20Vault%20Contributor-4A90E2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/⚡%20Status-Angular%20Expert-DD0031?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🎨%20Level-UI%2FUX%20Innovator-6C7B95?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀%20Goal-Fullstack%20Architect-8FA8DA?style=for-the-badge"/>
-</div>
-
----
-
-## 🌟 Featured Projects - My Digital Portfolio
-<div align="center">
-<!-- Repository Cards with White Background and Full Width -->
-<a href="https://github.com/JeanHaro/front-store">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanHaro&repo=front-store&bg_color=FFFFFF&title_color=2C3E50&text_color=2C3E50&border_color=CCCCCC&border_radius=15" />
-</a>
-<a href="https://github.com/JeanHaro/back-apistore">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanHaro&repo=back-apistore&bg_color=FFFFFF&title_color=2C3E50&text_color=2C3E50&border_color=CCCCCC&border_radius=15" />
-</a>
-<a href="https://github.com/JeanHaro/front-sports-academy">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanHaro&repo=front-sports-academy&bg_color=FFFFFF&title_color=2C3E50&text_color=2C3E50&border_color=CCCCCC&border_radius=15" />
-</a>
-<a href="https://github.com/JeanHaro/FaluhStore">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanHaro&repo=FaluhStore&bg_color=FFFFFF&title_color=2C3E50&text_color=2C3E50&border_color=CCCCCC&border_radius=15" />
-</a>
-</div>
-
----
-
-## 🌐 **Connect With Me - Let's Build Together**
-
-<div align="center">
-
-<!-- Social Media Badges -->
-<a href="https://www.linkedin.com/in/jean-carlos-haro-824a07217/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000"/>
-</a>
-<a href="https://github.com/JeanHaro">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000"/>
-</a>
-<a href="mailto:jeanch447@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000"/>
-</a>
-<a href="https://twitter.com/JeanPE98">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000"/>
-</a>
-
-<!-- Animated Contact CTA -->
-<br/><br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=💬+Open+to+collaborate+on+innovative+projects;🚀+Let's+build+the+future+together;📧+Feel+free+to+reach+out!" alt="Contact Animation"/>
-
-</div>
-
----
-
-## 🎵 **Beyond Code - Personal Touch**
-
-<div align="left">
-
-```typescript
-const personalLife = {
-  hobbies: ["🎮 Gaming", "🎧 Music", "📚 Continuous Learning", "🐶 Animal Lover"],
-  currentlyPlaying: "Exploring new JavaScript frameworks",
-  favoriteQuote: "Code is like humor. When you have to explain it, it's bad.",
-  workPhilosophy: "Elegant solutions through innovative thinking",
-  superpower: "Turning coffee into responsive web applications ☕➡️💻"
-};
-```
-
-</div>
-
----
-
-<!-- Animated Footer -->
-<!-- Animated Footer -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16,17&height=120&section=footer"/>
-</div>
+**📈 Actividad reciente**
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <br>
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JeanHaro&label=Profile%20Views&color=4A90E2&style=for-the-badge" alt="Profile Views"/>
-</div>
 
 ---
 
 <div align="center">
-
-### 🚀 **Thank you for visiting! Let's innovate together!** 🌟
-
-*"The best way to predict the future is to create it."* - Peter Drucker
-
+<sub>Última actualización automática vía GitHub Actions</sub>
 </div>
