@@ -1,0 +1,53 @@
+name: Actualizar README
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # todos los días a las 6:00 UTC (1:00 am Lima)
+  workflow_dispatch:       # también puedes ejecutarlo manualmente desde la pestaña Actions
+  push:
+    branches: [ main ]
+
+jobs:
+  actividad-reciente:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Actualizar actividad reciente
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: JeanHaro
+          COMMIT_MSG: "docs: actualizar actividad reciente"
+
+  tiempo-programando:
+    runs-on: ubuntu-latest
+    needs: actividad-reciente
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Calcular tiempo programando
+        run: |
+          START_DATE="2020-10-01"
+          NOW=$(date +%s)
+          START=$(date -d "$START_DATE" +%s)
+          DIFF_DAYS=$(( (NOW - START) / 86400 ))
+          YEARS=$(( DIFF_DAYS / 365 ))
+          MONTHS=$(( (DIFF_DAYS % 365) / 30 ))
+          TEXT="⏱️ programando desde hace ${YEARS} años y ${MONTHS} meses"
+          sed -i "s|<!--START_SECTION:coding-time-->.*<!--END_SECTION:coding-time-->|<!--START_SECTION:coding-time--> ${TEXT} <!--END_SECTION:coding-time-->|" README.md
+
+      - name: Commitear cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "docs: actualizar tiempo programando"
+          git push
