@@ -21,7 +21,7 @@ Con experiencia reciente en **Havas Perú**, TISmart y Pisco Technologies. Actua
 <br/>
 🎓 Ing. de Sistemas, Universidad Tecnológica del Perú
 <br/>
-<!--START_SECTION:coding-time--> ⏱️ programando desde hace X <!--END_SECTION:coding-time-->
+<!--START_SECTION:coding-time--> ⏱️ programando desde hace 5 años y 9 meses <!--END_SECTION:coding-time-->
 
 <br>
 
