@@ -20,7 +20,7 @@ Con experiencia reciente en **Havas Perú**, TISmart y Pisco Technologies. Actua
 <br/>
 🎓 Ing. de Sistemas, Universidad Tecnológica del Perú
 <br/>
-<!--START_SECTION:coding-time--> ⏱️ programando desde hace 5 años y 9 meses <!--END_SECTION:coding-time-->
+<!--START_SECTION:coding-time--> ⏱️ programando desde hace X <!--END_SECTION:coding-time-->
 
 <br>
 
@@ -84,7 +84,7 @@ Building blocks de Domain-Driven Design en TypeScript — `Result`, `ValueObject
 
 <br/>
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=JeanHaro&background=FFFFFF&stroke=e4e2e2&ring=4A90E2&fire=4A90E2&currStreakLabel=2C3E50&sideLabels=2C3E50&dates=6b7280&sideNums=2C3E50&currStreakNum=2C3E50&border=e4e2e2&border_radius=12"/>
+<img width="60%" src="https://streak-stats.demolab.com/?user=JeanHaro&background=FFFFFF&stroke=e4e2e2&ring=4A90E2&fire=4A90E2&currStreakLabel=2C3E50&sideLabels=2C3E50&dates=6b7280&sideNums=2C3E50&currStreakNum=2C3E50&border=e4e2e2&border_radius=12"/>
 
 </div>
 
@@ -103,8 +103,22 @@ Building blocks de Domain-Driven Design en TypeScript — `Result`, `ValueObject
 
 <br>
 
+## Contribuciones
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeanHaro/JeanHaro/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeanHaro/JeanHaro/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake de contribuciones" src="https://raw.githubusercontent.com/JeanHaro/JeanHaro/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
+<br>
+
 ---
 
 <div align="center">
 <sub>Última actualización automática vía GitHub Actions</sub>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=JeanHaro&label=Profile%20Views&color=4A90E2&style=flat-square"/>
 </div>
