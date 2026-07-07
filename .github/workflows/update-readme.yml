@@ -43,7 +43,7 @@ jobs:
               t = e["type"]
               repo = e["repo"]["name"]
               if t == "PushEvent":
-                  n = len(e["payload"].get("commits", []))
+                  n = e["payload"].get("distinct_size", e["payload"].get("size", len(e["payload"].get("commits", []))))
                   lines.append(f"🚀 Push de {n} commit(s) a **{repo}**")
               elif t == "CreateEvent" and e["payload"].get("ref_type") == "repository":
                   lines.append(f"✨ Creó el repositorio **{repo}**")
