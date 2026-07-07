@@ -20,7 +20,7 @@ jobs:
         with:
           GITHUB_USERNAME: "JeanHaro"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          COMMIT_MSG: "docs: actualizar actividad reciente"
+          COMMIT_MESSAGE: "docs: actualizar actividad reciente"
 
   tiempo-programando:
     runs-on: ubuntu-latest
