@@ -53,12 +53,24 @@ jobs:
                   lines.append(f"📋 {e['payload']['action']} un issue en **{repo}**")
 
           body = "\n".join(f"- {l}" for l in lines) if lines else "- Sin actividad pública reciente"
-          block = f"<!--START_SECTION:activity-->\n{body}\n<!--END_SECTION:activity-->"
+          block = f"<!--START_SECTION:activity-->
+- 🚀 Push de 0 commit(s) a **JeanHaro/JeanHaro**
+- 🚀 Push de 0 commit(s) a **JeanHaro/JeanHaro**
+- 🚀 Push de 0 commit(s) a **JeanHaro/JeanHaro**
+- 🚀 Push de 0 commit(s) a **JeanHaro/JeanHaro**
+- 🚀 Push de 0 commit(s) a **JeanHaro/JeanHaro**
+<!--END_SECTION:activity-->"
 
           with open("README.md", encoding="utf-8") as f:
               content = f.read()
 
-          content = re.sub(r"<!--START_SECTION:activity-->.*?<!--END_SECTION:activity-->", block, content, flags=re.S)
+          content = re.sub(r"<!--START_SECTION:activity-->
+- 🚀 Push de 0 commit(s) a **JeanHaro/JeanHaro**
+- 🚀 Push de 0 commit(s) a **JeanHaro/JeanHaro**
+- 🚀 Push de 0 commit(s) a **JeanHaro/JeanHaro**
+- 🚀 Push de 0 commit(s) a **JeanHaro/JeanHaro**
+- 🚀 Push de 0 commit(s) a **JeanHaro/JeanHaro**
+<!--END_SECTION:activity-->", block, content, flags=re.S)
 
           with open("README.md", "w", encoding="utf-8") as f:
               f.write(content)
