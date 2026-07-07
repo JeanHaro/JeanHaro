@@ -5,6 +5,7 @@
 <a href="https://www.linkedin.com/in/jeancarlos-haro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:jeanch447@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://portfolio-jeans.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=JeanHaro&label=Profile%20Views&color=4A90E2&style=for-the-badge"/>
 
 </div>
 
@@ -20,7 +21,7 @@ Con experiencia reciente en **Havas Perú**, TISmart y Pisco Technologies. Actua
 <br/>
 🎓 Ing. de Sistemas, Universidad Tecnológica del Perú
 <br/>
-<!--START_SECTION:coding-time--> ⏱️ programando desde hace 5 años y 9 meses <!--END_SECTION:coding-time-->
+<!--START_SECTION:coding-time--> ⏱️ programando desde hace X <!--END_SECTION:coding-time-->
 
 <br>
 
@@ -99,11 +100,6 @@ Building blocks de Domain-Driven Design en TypeScript — `Result`, `ValueObject
 
 **📈 Actividad reciente**
 <!--START_SECTION:activity-->
-- 🚀 Push a **JeanHaro/JeanHaro**
-- 🚀 Push a **JeanHaro/JeanHaro**
-- 🚀 Push a **JeanHaro/JeanHaro**
-- 🚀 Push a **JeanHaro/JeanHaro**
-- 🚀 Push a **JeanHaro/JeanHaro**
 <!--END_SECTION:activity-->
 
 <br>
@@ -124,6 +120,4 @@ Building blocks de Domain-Driven Design en TypeScript — `Result`, `ValueObject
 
 <div align="center">
 <sub>Última actualización automática vía GitHub Actions</sub>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=JeanHaro&label=Profile%20Views&color=4A90E2&style=flat-square"/>
 </div>
