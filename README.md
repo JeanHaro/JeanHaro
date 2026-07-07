@@ -20,7 +20,7 @@ Con experiencia reciente en **Havas Perú**, TISmart y Pisco Technologies. Actua
 <br/>
 🎓 Ing. de Sistemas, Universidad Tecnológica del Perú
 <br/>
-<!--START_SECTION:coding-time--> ⏱️ programando desde hace 5 años y 9 meses <!--END_SECTION:coding-time-->
+<!--START_SECTION:coding-time--> ⏱️ programando desde hace X <!--END_SECTION:coding-time-->
 
 <br>
 
@@ -79,12 +79,12 @@ Building blocks de Domain-Driven Design en TypeScript — `Result`, `ValueObject
 
 <div align="center">
 
-<img height="165em" src="https://github-stats-extended.vercel.app/api?username=JeanHaro&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_radius=12&hide_border=true"/>
-<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JeanHaro&layout=compact&langs_count=6&theme=tokyonight&border_radius=12&hide_border=true"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=JeanHaro&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=2C3E50&icon_color=4A90E2&text_color=2C3E50&border_color=e4e2e2&border_radius=12"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JeanHaro&layout=compact&langs_count=6&bg_color=FFFFFF&title_color=2C3E50&text_color=2C3E50&border_color=e4e2e2&border_radius=12"/>
 
 <br/>
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=JeanHaro&theme=tokyonight&border_radius=12&hide_border=true"/>
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=JeanHaro&background=FFFFFF&stroke=e4e2e2&ring=4A90E2&fire=4A90E2&currStreakLabel=2C3E50&sideLabels=2C3E50&dates=6b7280&sideNums=2C3E50&currStreakNum=2C3E50&border=e4e2e2&border_radius=12"/>
 
 </div>
 
