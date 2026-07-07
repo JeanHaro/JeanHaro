@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=230&section=header&text=Jean%20Carlos%20Haro&fontSize=46&fontColor=fff&fontAlignY=42&desc=Frontend%20Developer%20%7C%20Angular%20%2F%20TypeScript&descAlignY=60&descAlign=50"/>
 <br/>
-<a href="https://www.linkedin.com/in/jeancarlos-haro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jean-carlos-haro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:jeanch447@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://portfolio-jeans.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=JeanHaro&label=Profile%20Views&color=4A90E2&style=for-the-badge"/>
@@ -21,7 +21,7 @@ Con experiencia reciente en **Havas Perú**, TISmart y Pisco Technologies. Actua
 <br/>
 🎓 Ing. de Sistemas, Universidad Tecnológica del Perú
 <br/>
-<!--START_SECTION:coding-time--> ⏱️ programando desde hace 5 años y 9 meses <!--END_SECTION:coding-time-->
+<!--START_SECTION:coding-time--> ⏱️ programando desde hace X <!--END_SECTION:coding-time-->
 
 <br>
 
@@ -100,11 +100,6 @@ Building blocks de Domain-Driven Design en TypeScript — `Result`, `ValueObject
 
 **📈 Actividad reciente**
 <!--START_SECTION:activity-->
-- 🚀 Push a **JeanHaro/JeanHaro**
-- 🚀 Push a **JeanHaro/JeanHaro**
-- 🚀 Push a **JeanHaro/JeanHaro**
-- 🚀 Push a **JeanHaro/JeanHaro**
-- 🚀 Push a **JeanHaro/JeanHaro**
 <!--END_SECTION:activity-->
 
 <br>
