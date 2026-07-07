@@ -104,7 +104,7 @@ jobs:
           YEARS=$(( DIFF_DAYS / 365 ))
           MONTHS=$(( (DIFF_DAYS % 365) / 30 ))
           TEXT="⏱️ programando desde hace ${YEARS} años y ${MONTHS} meses"
-          sed -i "s|<!--START_SECTION:coding-time-->.*<!--END_SECTION:coding-time-->|<!--START_SECTION:coding-time--> ${TEXT} <!--END_SECTION:coding-time-->|" README.md
+          sed -i "s|<!--START_SECTION:coding-time--> ⏱️ programando desde hace 5 años y 9 meses <!--END_SECTION:coding-time-->|" README.md
 
       - name: Commitear cambios
         run: |
