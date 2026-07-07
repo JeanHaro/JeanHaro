@@ -99,11 +99,11 @@ Building blocks de Domain-Driven Design en TypeScript — `Result`, `ValueObject
 
 **📈 Actividad reciente**
 <!--START_SECTION:activity-->
-- 🚀 Push de 0 commit(s) a **JeanHaro/JeanHaro**
-- 🚀 Push de 0 commit(s) a **JeanHaro/JeanHaro**
-- 🚀 Push de 0 commit(s) a **JeanHaro/JeanHaro**
-- 🚀 Push de 0 commit(s) a **JeanHaro/JeanHaro**
-- 🚀 Push de 0 commit(s) a **JeanHaro/JeanHaro**
+- 🚀 Push a **JeanHaro/JeanHaro**
+- 🚀 Push a **JeanHaro/JeanHaro**
+- 🚀 Push a **JeanHaro/JeanHaro**
+- 🚀 Push a **JeanHaro/JeanHaro**
+- 🚀 Push a **JeanHaro/JeanHaro**
 <!--END_SECTION:activity-->
 
 <br>
