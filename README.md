@@ -96,6 +96,7 @@ Building blocks de Domain-Driven Design en TypeScript — `Result`, `ValueObject
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
 </div>
+<br>
 
 **📈 Actividad reciente**
 <!--START_SECTION:activity-->
