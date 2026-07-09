@@ -101,9 +101,9 @@ Building blocks de Domain-Driven Design en TypeScript — `Result`, `ValueObject
 **📈 Actividad reciente**
 <!--START_SECTION:activity-->
 - 🚀 Push a **JeanHaro/jean-portfolio**
-- 🚀 Push a **JeanHaro/JeanHaro**
-- 🚀 Push a **JeanHaro/angular-pro-pokemon-ssr**
-- 🚀 Push a **JeanHaro/JeanHaro**
+- 🚀 Push a **JeanHaro/jean-portfolio**
+- 🚀 Push a **JeanHaro/jean-portfolio**
+- 🚀 Push a **JeanHaro/jean-portfolio**
 - 🚀 Push a **JeanHaro/JeanHaro**
 <!--END_SECTION:activity-->
 
